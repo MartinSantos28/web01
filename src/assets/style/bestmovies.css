@@ -1,0 +1,23 @@
+flex-container {
+    margin-top: px;
+    display: flex;
+    background-color: #dc143c;
+  }
+ flex-container div {
+    margin-top: px;
+    display: flex;
+    background-color: #dc143c;
+
+  }
+
+flex-container img {
+    height: 250px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+titulos h1{
+    background-color:#f1666d   ;
+}

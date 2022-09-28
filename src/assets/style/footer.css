@@ -1,0 +1,16 @@
+flex-container {
+    margin-top: px;
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:center;
+    align-items:flex-end 
+  }
+  
+footer{
+    background-color: blue;
+}
+flex-container svg {
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
